@@ -146,6 +146,7 @@ h3 {
   cursor: pointer;
   text-align: center;
   appearance: button;
+  -webkit-appearance: button;
   display: flex;
   align-items: center;
   justify-content: center;
